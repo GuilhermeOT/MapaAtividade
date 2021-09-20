@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="pesquisa" type="id" />
+    <item name="mtxtlatitude" type="id" />
+    <item name="mtxtlongitude" type="id" />
+</resources>
